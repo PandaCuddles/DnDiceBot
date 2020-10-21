@@ -139,8 +139,7 @@ def parse(roll):
     #print(f"Final sum    : {total}\n")
 
 
-# Program requires more robustness to add negative numbers ("1d7 + -4" currently registers as a bad roll)
-# TODO: If demand is high enough, create functionality to add negative numbers (e.g. "4+-2")
+# TODO: Create functionality to add negative numbers (e.g. "4+-2")
 # TODO: Limit number of dice rolls and dice sides to less than 10,000 (for everyone's sake)
 def ex_rolls():
     _rolls = [
