@@ -13,6 +13,6 @@ Simple Dice Bot for Discord
 
 ## To Do
 * Add help message for !roll command
-* Add functionality to save up to 10 rolls to a favorites list for each user (adding command to save to favorites)
-* Add functionality to automatically save history of last 20 unique rolls for each user (adding command to display history)
+* Add functionality to save up to 10 rolls to a favorites list for each user (adding command to save a roll to favorites)
+* Add functionality to automatically save history of last 20 unique rolls for each user (adding !history command to display history)
 * Add simple desktop GUI and create two release versions (a bot version and a desktop version)
